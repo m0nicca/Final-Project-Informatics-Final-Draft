@@ -1,0 +1,44 @@
+﻿<Window x:Class="Final_Project_Informatics.HealthArticlesPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_Project_Informatics"
+        mc:Ignorable="d"
+        Title="HealthArticlesPage" Height="982" Width="1512">
+    <Grid Background="#FFF2E9E4">
+        
+        <Rectangle Margin="0,0,-6.667,808.667" Fill="#FF4A4E69" Width="1512" Height="144"/>
+
+        <Image Margin="19,16,1380.333,825.667" Width="106" Height="111">
+            <Image.Source>
+                <BitmapImage UriSource="H:\12 gr Informatics\Final Project Informatics\logo.jpeg"></BitmapImage>
+            </Image.Source>
+        </Image>
+        <TextBlock Text="THE RECIPE BOOK" Foreground="White" Margin="530,41,530,855.667" FontSize="50" FontFamily="Sitka Text" HorizontalAlignment="Center"></TextBlock>
+        <Button x:Name="LogoButton2" Width="106" Height="111" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Margin="19,16,1380.333,825.667" Click="LogoButton2_Click"></Button>
+
+        <Rectangle Width="1414" Height="212" Fill="#FFD9D9D9" Margin="47,167,44.333,573.667" ></Rectangle>
+        <TextBlock Text="Healthy Meal Planning: Tips for Older Adults" FontSize="40" FontFamily="Garamond" Margin="394,184,388.333,723.667"></TextBlock>
+        <TextBlock Text="Eating healthfully and having an active lifestyle can support healthy aging. Use the resources below to learn about different patterns of healthy eating and ways to create a nutritious meal plan." FontSize="33" FontFamily="Garamond" Foreground="#FF9A8C98" TextWrapping="Wrap" Margin="77,248,75.333,612.667" TextAlignment="Center"></TextBlock>
+        <TextBlock Text="Read More" Background="#FF22223B" Width="173" Height="36" Margin="1288,345,44.333,571.667" FontSize="25" FontFamily="Garamond" Foreground="White" TextAlignment="Center"></TextBlock>
+        <Button x:Name="SaveArticle1" Background="#FF22223B" BorderBrush="#FF22223B" Foreground="White" Width="173" Height="36" Content="Save Article" FontSize="25" FontFamily="Garamond" Margin="47,345,1285.333,571.667" Click="SaveArticle1_Click"></Button>
+
+        <Rectangle Width="1414" Height="212" Fill="#FFD9D9D9" Margin="47,408,44.333,332.667" />
+        <TextBlock Text="An Extra 10 Minutes at Dinner May Help Kids Eat More Healthy Foods" FontSize="40" FontFamily="Garamond" Margin="187,420,180.333,469.667"/>
+        <TextBlock Text="A study showed that an extended dinner led children to eat more fruits and vegetables; bite-size portions also helped them eat more in the extra time." FontSize="33" FontFamily="Garamond" Foreground="#FF9A8C98" TextWrapping="Wrap" Margin="77,483,74.333,377.667" TextAlignment="Center"/>
+        <TextBlock Text="Read More" Background="#FF22223B" Width="173" Height="36" Margin="1288,584,44.333,332.667" FontSize="25" FontFamily="Garamond" Foreground="White" TextAlignment="Center"/>
+        <Button x:Name="SaveArticle2" Background="#FF22223B" BorderBrush="#FF22223B" Foreground="White" Width="173" Height="36" Content="Save Article" FontSize="25" FontFamily="Garamond" Margin="47,584,1285.333,332.667" Click="SaveArticle2_Click"></Button>
+
+        <Rectangle Width="1414" Height="212" Fill="#FFD9D9D9" Margin="47,653,44.333,87.667" />
+        <TextBlock Text="Eating More Yogurt May Lead to Better Health" FontSize="40" FontFamily="Garamond" Margin="376,675,374.333,233.667"/>
+        <TextBlock Text="New research suggests that eating more foods rich in live microbes may help lower blood pressure and blood sugar levels, reduce inflammation, and help a person maintain a healthy weight." FontSize="33" FontFamily="Garamond" Foreground="#FF9A8C98" TextWrapping="Wrap" Margin="77,740,74.333,120.667" TextAlignment="Center"/>
+        <TextBlock Text="Read More" Background="#FF22223B" Width="173" Height="36" Margin="1288,829,44.333,87.667" FontSize="25" FontFamily="Garamond" Foreground="White" TextAlignment="Center"/>
+        <Button x:Name="SaveArticle3" Background="#FF22223B" BorderBrush="#FF22223B" Foreground="White" Width="173" Height="36" Content="Save Article" FontSize="25" FontFamily="Garamond" Margin="47,829,1285.333,87.667" Click="SaveArticle3_Click"></Button>
+
+        <Button x:Name="PreviousPageButton2" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF22223B" Content="Previous Page" FontSize="30" FontFamily="Garamond" Margin="626,874,632.333,9.667" Click="PreviousPageButton2_Click"/>
+
+        <TextBox x:Name="usernametxt2" Margin="47,884,1147.333,16.667" Text="Username" FontSize="30" TextAlignment="Center"></TextBox>
+
+    </Grid>
+</Window>

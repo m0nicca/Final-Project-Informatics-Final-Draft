@@ -1,0 +1,29 @@
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\bin\Debug\Final Project Informatics.exe.config
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\bin\Debug\Final Project Informatics.exe
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\bin\Debug\Final Project Informatics.pdb
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics.csproj.AssemblyReference.cache
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\MainWindow.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\App.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics_MarkupCompile.cache
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics_MarkupCompile.lref
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\MainWindow.baml
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics.g.resources
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final_Project_Informatics.Properties.Resources.resources
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics.csproj.GenerateResource.cache
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics.csproj.CoreCompileInputs.cache
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics.exe
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\Final Project Informatics.pdb
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\AllRecipes.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\HealthArticlesPage.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\HomePage.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\MyProfilePage.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\SavedArticlesPage.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\SavedRecipesPage.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\SignUpPage.g.cs
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\AllRecipes.baml
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\HealthArticlesPage.baml
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\HomePage.baml
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\MyProfilePage.baml
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\SavedArticlesPage.baml
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\SavedRecipesPage.baml
+H:\12 gr Informatics\Final Project Informatics\Final Project Informatics\obj\Debug\SignUpPage.baml
